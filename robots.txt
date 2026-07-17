@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tsuda14.github.io/smart-office-equipment/sitemap.xml
